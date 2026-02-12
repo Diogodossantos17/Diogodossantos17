@@ -1,6 +1,6 @@
 **Desenvolvimento Front-End**
 
-Linguagens: 
+**Linguagens: **
 
 HTML5;
 
