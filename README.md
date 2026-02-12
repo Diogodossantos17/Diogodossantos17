@@ -6,7 +6,7 @@ Frameworks: React JS.
 Estilização: Módulos CSS / Componentes estilizados.
 
 Infraestrutura e Sistemas
-Servidores: Administração de Servidores (Linux/Windows).
+Servidores: Administração de Servidores (Linux).
 
 Redes: Protocolos TCP/IP, DNS, Configuração de Redes e Segurança.
 
