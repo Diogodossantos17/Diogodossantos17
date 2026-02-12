@@ -1,16 +1,26 @@
-## Hi there 👋
+**Desenvolvimento Front-End**
 
-<!--
-**Diogodossantos17/Diogodossantos17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linguagens: 
 
-Here are some ideas to get you started:
+HTML5;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS3;
+
+JavaScript (ES6+).
+
+**Frameworks: React JS.**
+
+**Estilização: Módulos CSS / Componentes estilizados.**
+
+**Infraestrutura e Sistemas
+Servidores:**
+
+Administração de Servidores (Linux/Windows).
+
+**Redes: **
+
+Protocolos TCP/IP, DNS, Configuração de Redes e Segurança.
+
+**Ferramentas:**
+
+Gestão de infraestrutura e suporte técnico avançado.
