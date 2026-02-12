@@ -1,26 +1,13 @@
-**Desenvolvimento Front-End**
+Desenvolvimento Front-End
+Linguagens: HTML5, CSS3, JavaScript (ES6+).
 
-**Linguagens: **
+Frameworks: React JS.
 
-HTML5;
+Estilização: Módulos CSS / Componentes estilizados.
 
-CSS3;
+Infraestrutura e Sistemas
+Servidores: Administração de Servidores (Linux/Windows).
 
-JavaScript (ES6+).
+Redes: Protocolos TCP/IP, DNS, Configuração de Redes e Segurança.
 
-**Frameworks: React JS.**
-
-**Estilização: Módulos CSS / Componentes estilizados.**
-
-**Infraestrutura e Sistemas
-Servidores:**
-
-Administração de Servidores (Linux/Windows).
-
-**Redes: **
-
-Protocolos TCP/IP, DNS, Configuração de Redes e Segurança.
-
-**Ferramentas:**
-
-Gestão de infraestrutura e suporte técnico avançado.
+Ferramentas: Gestão de infraestrutura e suporte técnico avançado.
